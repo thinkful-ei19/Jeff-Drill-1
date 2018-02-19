@@ -16,6 +16,6 @@ function yearOfBirth(age1){
     /* ----If wanted to code in our Birth Year 
     console.log(`I was born in ${yearOfBirth}`)
     */
-    console.log(yob)
+    console.log(`The year that I were born was ${yob}`)
     };
-    whoIAm("jeff","twenty five");
+    whoIAm("jeff",20);
