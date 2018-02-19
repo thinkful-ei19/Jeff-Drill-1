@@ -3,7 +3,7 @@ function yearOfBirth(age1){
        throw new Error("Age can not be negative")
    }
    if(isNaN(age1)){
-       throw new Error("Age Must Be A Vaild Number")
+       throw new Error("Arguments not valid")
    }
     return 2018 - age1 ;
 
